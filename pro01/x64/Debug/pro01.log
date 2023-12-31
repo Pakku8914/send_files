@@ -1,0 +1,5 @@
+﻿  ソース.cpp
+C:\Users\pakku\source\repos\NissinSystemsKadai01\pro01\ソース.cpp(32,17): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\pakku\source\repos\NissinSystemsKadai01\pro01\ソース.cpp(64,12): warning C4477: 'printf' : 書式文字列 '%d' には、型 'int' の引数が必要ですが、可変個引数 1 は型 'const MP *' です
+C:\Users\pakku\source\repos\NissinSystemsKadai01\pro01\ソース.cpp(64,12): warning C4313: 'printf': 書式文字列内の '%d' が引数 1 ('const MP *' 型) と競合しています
+  pro01.vcxproj -> C:\Users\pakku\source\repos\NissinSystemsKadai01\x64\Debug\pro01.exe

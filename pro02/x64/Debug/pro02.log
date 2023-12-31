@@ -1,0 +1,13 @@
+﻿  pro02.c
+C:\Users\pakku\source\repos\NissinSystemsKadai01\pro02\pro02.c(13,41): error C2057: 定数式が必要です。
+C:\Users\pakku\source\repos\NissinSystemsKadai01\pro02\pro02.c(13,46): error C2466: サイズが 0 の配列を割り当てまたは宣言しようとしました。
+C:\Users\pakku\source\repos\NissinSystemsKadai01\pro02\pro02.c(13,61): error C2057: 定数式が必要です。
+C:\Users\pakku\source\repos\NissinSystemsKadai01\pro02\pro02.c(13,66): error C2466: サイズが 0 の配列を割り当てまたは宣言しようとしました。
+C:\Users\pakku\source\repos\NissinSystemsKadai01\pro02\pro02.c(18,41): error C2057: 定数式が必要です。
+C:\Users\pakku\source\repos\NissinSystemsKadai01\pro02\pro02.c(18,46): error C2466: サイズが 0 の配列を割り当てまたは宣言しようとしました。
+C:\Users\pakku\source\repos\NissinSystemsKadai01\pro02\pro02.c(18,61): error C2057: 定数式が必要です。
+C:\Users\pakku\source\repos\NissinSystemsKadai01\pro02\pro02.c(18,66): error C2466: サイズが 0 の配列を割り当てまたは宣言しようとしました。
+C:\Users\pakku\source\repos\NissinSystemsKadai01\pro02\pro02.c(72,41): error C2057: 定数式が必要です。
+C:\Users\pakku\source\repos\NissinSystemsKadai01\pro02\pro02.c(72,46): error C2466: サイズが 0 の配列を割り当てまたは宣言しようとしました。
+C:\Users\pakku\source\repos\NissinSystemsKadai01\pro02\pro02.c(72,61): error C2057: 定数式が必要です。
+C:\Users\pakku\source\repos\NissinSystemsKadai01\pro02\pro02.c(72,66): error C2466: サイズが 0 の配列を割り当てまたは宣言しようとしました。
